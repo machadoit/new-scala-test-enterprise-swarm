@@ -5,3 +5,5 @@ var kindSir = 123123
 var potato = 123
 
 var yes = 567
+
+var huk = 123
